@@ -1,8 +1,11 @@
 After cloning:
-||npm i||
+
+```npm i```
 
 to use in pi
-||pi -e .\sleep-schedule.ts||
+
+```pi -e .\sleep-schedule.ts```
 
 to test
-||npx vitest run||
+
+```npx vitest run```
